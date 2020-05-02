@@ -1,0 +1,7 @@
+var Sum;
+function functionWithArgs(Num1, Num2) {
+  console.log(Num1 + Num2);  
+}
+
+functionWithArgs (1,2);
+functionWithArgs (7,9);
